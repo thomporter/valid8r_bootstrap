@@ -1,0 +1,21 @@
+{
+	"name": "valid8r_bootstrap",
+	"version": "0.1.0",
+	"main": [
+		"./js/valid8r_bootstrap.js"
+	],
+	"keywords":["validation","validate","form validation","bootstrap","twitter bootstrap","forms","html"],
+	"ignore": [
+		"**/.*",
+		"_*",
+		"examples",
+		"tests",
+		"Makefile",
+		"Makefile",
+		"index.php",
+		"*.html"
+	],
+	"dependencies": {
+		"valid8r_js": "*"
+	}
+}
