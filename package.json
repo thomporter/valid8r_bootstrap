@@ -1,0 +1,30 @@
+{
+	"name": "valid8r_bootstrap",
+	"description": "Twitter Bootstrap Plugin for Valid8r's JavaScript Module",
+	"version": "0.1.0",
+	"keywords": ["validation","validate","form validation","bootstrap","bootstrap forms","twitter bootstrap"],
+	"homepage": "http://thomporter.com/valid8r",
+	"author": "Thom Porter",
+	"repository": {
+		"type": "git",
+		"url" : "https://github.com/thomporter/valid8r_bootstrap"
+	},
+	"bugs": {
+		"url": "https://github.com/thomporter/valid8r_bootstrap/issues"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://raw.github.com/thomporter/valid8r/master/MIT-LICENSE.txt"
+		}
+	],
+	"scripts": {
+		"start": "node examples.js"
+	},
+	"engines": {
+		"node": ">= 0.8"
+	},
+	"devDependencies": {
+		"express": ">2.5.8"
+	}
+}
